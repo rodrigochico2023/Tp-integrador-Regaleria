@@ -9,7 +9,8 @@
 
 
 .carousel-item img {
-    max-width: 20%; /* Ajusta el porcentaje según el tamaño deseado */
+    max-height: 60%; /* Ajusta el porcentaje del alto deseado */
+    
     height: auto;
 }
 
@@ -64,6 +65,10 @@
 .boton-ingresar{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
+}
+
+.fuente-carrusel {
+    color: #000;
 }
 
 .fuente-cards{
