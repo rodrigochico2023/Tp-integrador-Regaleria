@@ -93,6 +93,10 @@
     color: #434343
 }
 
+.links-nav a:hover {
+    color:#eee;
+ }
+
 .ancho-nav{
 min-height: 40px;
 }
